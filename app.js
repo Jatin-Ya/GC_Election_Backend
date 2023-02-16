@@ -30,6 +30,9 @@ app.use(express.static(path.join(__dirname, "client/build")));
 
 app.use("/auth", authRouter);
 app.use("/hostel", hostelRouter);
+app.get("/", (req,res)=>{
+  res.send("Express on Vercel");
+});
 
 app.all("*", (req, res, next) => {
   next(new AppError(`Can't find ${req.originalUrl} on this server!`, 404));
