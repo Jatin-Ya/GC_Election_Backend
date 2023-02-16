@@ -19,7 +19,11 @@ const ADMIN_EMAILS = config.ADMIN_EMAILS;
 const checkIfUserBelongsToAHostel = async (hostel, email) => {
     const emails = await getEmailsOfAHostel(hostel);
 
-    return emails.includes(email);
+    return (
+        emails.includes(email) ||
+        emails.includes(email.toUpperCase()) ||
+        emails.includes(email.toLowerCase())
+    );
 };
 
 const hasVoted = async (hostel, email) => {
@@ -48,7 +52,9 @@ const authCheck = async (hostel, email) => {
         hostel,
         email
     );
-    console.log(userBelongsToAHostel);
+    console.log(
+        await checkIfUserBelongsToAHostel("CS", "21CS01078@iitbbs.ac.in")
+    );
 
     if (!userBelongsToAHostel) {
         console.log("return false l");
