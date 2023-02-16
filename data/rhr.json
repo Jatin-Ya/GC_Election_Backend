@@ -1,0 +1,56 @@
+{
+  "hostel": "RHR",
+  "voted": [],
+  "gsec": {
+    "nota": 0,
+    "abstain": 0,
+    "contestants": [
+      {
+        "email": "21ce01009@iitbbs.ac.in",
+        "name": "YUVRAJ PRATAP SINGH"
+      },
+
+      {
+        "email": "21me01069@iitbbs.ac.in",
+        "name": "M. Praveen Kumar"
+      }
+    ]
+  },
+  "msec1": {
+    "nota": 0,
+    "abstain": 0,
+    "contestants": [
+      {
+        "email": "21ec01021@iitbbs.ac.in",
+        "name": "Sambit Mishra"
+      },
+      {
+        "email": "21me01026@iitbbs.ac.in",
+        "name": "Kovid Sharma"
+      },
+      {
+        "email": "21ce01058@iitbbs.ac.in",
+        "name": "Himanshu verma"
+      }
+    ]
+  },
+  "msec2": {
+    "nota": 0,
+    "abstain": 0,
+    "contestants": []
+  },
+  "hsec": {
+    "nota": 0,
+    "abstain": 0,
+    "contestants": [
+      {
+        "email": "21ec01044@iitbbs.ac.in",
+        "name": "PRIYANSHU MATHUR"
+      },
+      {
+        "email": "21ec01022@iitbbs.ac.in",
+        "name": "SHUBH MODI"
+      }
+    ]
+  }
+}

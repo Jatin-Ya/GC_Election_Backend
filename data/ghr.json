@@ -1,0 +1,56 @@
+{
+  "hostel": "GHR",
+  "voted": [],
+  "gsec": {
+    "nota": 0,
+    "abstain": 0,
+    "contestants": [
+      {
+        "email": "20ee02005@iitbbs.ac.in",
+        "name": "Parthvi Jain"
+      },
+      {
+        "email": "20cs01023@iitbbs.ac.in",
+        "name": "Rishithaa Gottipati"
+      },
+      {
+        "email": "uk21@iitbbs.ac.in",
+        "name": "Uppada Keerthi"
+      }
+    ]
+  },
+  "msec1": {
+    "nota": 0,
+    "abstain": 0,
+    "contestants": [
+      {
+        "email": "20ee01053@iitbbs.ac.in",
+        "name": "Suchitra Kushwaha"
+      },
+      {
+        "email": "20ce02017@iitbbs.ac.in",
+        "name": "Krishna Harshita Chintalapudi"
+      },
+
+      {
+        "email": "bs26@iitbbs.ac.in",
+        "name": "Boda Swathi"
+      }
+    ]
+  },
+  "msec2": {
+    "nota": 0,
+    "abstain": 0,
+    "contestants": []
+  },
+  "hsec": {
+    "nota": 0,
+    "abstain": 0,
+    "contestants": [
+      {
+        "email": "20ee01065@iitbbs.ac.in",
+        "name": "Abothu Sreshta Bhavita"
+      }
+    ]
+  }
+}

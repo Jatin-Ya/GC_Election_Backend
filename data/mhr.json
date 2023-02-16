@@ -1,0 +1,60 @@
+{
+  "hostel": "MHR",
+  "voted": [],
+  "gsec": {
+    "nota": 0,
+    "abstain": 0,
+    "contestants": [
+      {
+        "email": "vrp11@iitbbs.ac.in",
+        "name": "Rithik Prasad.V"
+      }
+    ]
+  },
+  "msec1": {
+    "nota": 0,
+    "abstain": 0,
+    "contestants": [
+      {
+        "email": "ska13@iitbbs.ac.in",
+        "name": "SATISH KUMAR ASIPI"
+      },
+      {
+        "email": "rg24@iitbbs.ac.in",
+        "name": "Rohit Gaikwad"
+      },
+      {
+        "email": "21mf06007@iitbbs.ac.in",
+        "name": "SUBHAM BADPANDA"
+      }
+    ]
+  },
+  "msec2": {
+    "nota": 0,
+    "abstain": 0,
+    "contestants": [
+      {
+        "email": "ska13@iitbbs.ac.in",
+        "name": "SATISH KUMAR ASIPI"
+      },
+      {
+        "email": "rg24@iitbbs.ac.in",
+        "name": "Rohit Gaikwad"
+      },
+      {
+        "email": "21mf06007@iitbbs.ac.in",
+        "name": "SUBHAM BADPANDA"
+      }
+    ]
+  },
+  "hsec": {
+    "nota": 0,
+    "abstain": 0,
+    "contestants": [
+      {
+        "email": "kvk11@iitbbs.ac.in",
+        "name": "G V NITIN KRISHNA"
+      }
+    ]
+  }
+}

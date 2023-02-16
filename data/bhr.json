@@ -1,0 +1,122 @@
+{
+  "hostel": "BHR",
+  "voted": [],
+  "gsec": {
+    "nota": 0,
+    "abstain": 0,
+    "contestants": [
+      {
+        "email": "vh14@iitbbs.ac.in",
+        "name": "V Harshavardan"
+      }
+    ]
+  },
+  "msec1": {
+    "nota": 0,
+    "abstain": 0,
+    "contestants": [
+      {
+        "email": "a21ce09018@iitbbs.ac.in",
+        "name": "Pawan Kumar"
+      },
+      {
+        "email": "20ce01015@iitbbs.ac.in",
+        "name": "Dhananjay Lohiya"
+      },
+
+      {
+        "email": "kdt13@iitbbs.ac.in",
+        "name": "Krishna dutta tripathi"
+      },
+      {
+        "email": "20me01066@iitbbs.ac.in",
+        "name": "MALOVATH AMRUTH"
+      },
+      {
+        "email": "20cs02007@iitbbs.ac.in",
+        "name": "Om Saran"
+      },
+      {
+        "email": "cd11@iitbbs.ac.in",
+        "name": "Divyesh Cirikonda"
+      },
+      {
+        "email": "aa28@iitbbs.ac.in",
+        "name": "Ayush Agnihotri"
+      },
+      {
+        "email": "20cs01004@iitbbs.ac.in",
+        "name": "Sahaj Kharidia"
+      },
+      {
+        "email": "20ec01036@iitbbs.ac.in",
+        "name": "Sahil Pal"
+      },
+      {
+        "email": "20cs01015@iitbbs.ac.in",
+        "name": "Chekuri Muni Siva Charan"
+      }
+    ]
+  },
+  "msec2": {
+    "nota": 0,
+    "abstain": 0,
+    "contestants": [
+      {
+        "email": "a21ce09018@iitbbs.ac.in",
+        "name": "Pawan Kumar"
+      },
+      {
+        "email": "20ce01015@iitbbs.ac.in",
+        "name": "Dhananjay Lohiya"
+      },
+
+      {
+        "email": "kdt13@iitbbs.ac.in",
+        "name": "Krishna dutta tripathi"
+      },
+      {
+        "email": "20me01066@iitbbs.ac.in",
+        "name": "MALOVATH AMRUTH"
+      },
+      {
+        "email": "20cs02007@iitbbs.ac.in",
+        "name": "Om Saran"
+      },
+      {
+        "email": "cd11@iitbbs.ac.in",
+        "name": "Divyesh Cirikonda"
+      },
+      {
+        "email": "aa28@iitbbs.ac.in",
+        "name": "Ayush Agnihotri"
+      },
+      {
+        "email": "20cs01004@iitbbs.ac.in",
+        "name": "Sahaj Kharidia"
+      },
+      {
+        "email": "20ec01036@iitbbs.ac.in",
+        "name": "Sahil Pal"
+      },
+      {
+        "email": "20cs01015@iitbbs.ac.in",
+        "name": "Chekuri Muni Siva Charan"
+      }
+    ]
+  },
+  "hsec": {
+    "nota": 0,
+    "abstain": 0,
+    "contestants": [
+      {
+        "email": "kmr4@iitbbs.ac.in",
+        "name": "Keshav meena"
+      },
+      {
+        "email": "20ec01044@iitbbs.ac.in",
+        "name": "Chandramohan"
+      }
+    ]
+  }
+}

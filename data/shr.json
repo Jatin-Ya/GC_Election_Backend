@@ -1,0 +1,34 @@
+{
+  "hostel": "SHR",
+  "voted": [],
+  "gsec": {
+    "nota": 0,
+    "abstain": 0,
+    "contestants": [
+      {
+        "email": "21ee01032@iitbbs.ac.in",
+        "name": "Mahi Singh"
+      }
+    ]
+  },
+  "msec1": {
+    "nota": 0,
+    "abstain": 0,
+    "contestants": [
+      {
+        "email": "21gg05010@iitbbs.ac.in",
+        "name": "Anusri Saha"
+      }
+    ]
+  },
+  "msec2": {
+    "nota": 0,
+    "abstain": 0,
+    "contestants": []
+  },
+  "hsec": {
+    "nota": 0,
+    "abstain": 0,
+    "contestants": []
+  }
+}
