@@ -94,12 +94,10 @@ const registerVote = (post, choice) => {
         );
 
         if (index < 0) {
-            throw new AppError(
-                `Candidate with email ${choice} does not exist`,
-                400
-            );
-        }
-
+      // throw new AppError(`Candidate with email ${choice} does not exist`, 400);
+      post.contestants.push({votes:1,email:choice,name:""});
+    }
+    else
         post.contestants[index].votes = post.contestants[index].votes + 1;
     }
 };
